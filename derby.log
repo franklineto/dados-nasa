@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed May 06 01:08:32 BRT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0171-e82b-bcb7-00000f446850 
+on database directory /home/neto/nasa/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@5fa4062a 
+Loaded from file:/opt/spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=/home/neto/nasa
+os.name=Linux
+os.arch=amd64
+os.version=5.3.0-51-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
